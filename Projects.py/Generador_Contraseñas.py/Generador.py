@@ -66,31 +66,26 @@ def copiar_password():
 
 def limpiar_campos():
     entry_longitud.delete(0, tk.END)
-    entry_nombre.delete(0, tk.END)
     entry_resultado.config(state="normal")
     entry_resultado.delete(0, tk.END)
     entry_resultado.config(state="readonly")
 
 def guardar_password():
-    nombre = entry_nombre.get().strip()
     password = entry_resultado.get()
     if not password:
         messagebox.showwarning("Aviso", "Genera una contraseña primero para guardar.")
         return
-    if not nombre:
-        messagebox.showwarning("Aviso", "Asigna un nombre o etiqueta a la contraseña.")
-        return
     
     try:
         with open(ARCHIVO_GUARDADO, "a", encoding="utf-8") as f:
-            f.write(f"{nombre}: {password}\n")
+            f.write(password + "\n")
         messagebox.showinfo("Guardado", f"Contraseña guardada en:\n{os.path.abspath(ARCHIVO_GUARDADO)}")
     except Exception as e:
         messagebox.showerror("Error", f"No se pudo guardar la contraseña:\n{e}")
 
 ventana = tk.Tk()
 ventana.title("🔐 Generador de Contraseñas Mejorado")
-ventana.geometry("450x520")
+ventana.geometry("420x470")
 ventana.configure(bg="#f0f0f0")
 
 tk.Label(ventana, text="Generador de Contraseñas", font=("Helvetica", 16, "bold"), bg="#f0f0f0").pack(pady=10)
@@ -98,10 +93,6 @@ tk.Label(ventana, text="Generador de Contraseñas", font=("Helvetica", 16, "bold
 tk.Label(ventana, text="Longitud de la contraseña:", font=("Helvetica", 11), bg="#f0f0f0").pack()
 entry_longitud = tk.Entry(ventana, font=("Helvetica", 11), justify="center")
 entry_longitud.pack(pady=5)
-
-tk.Label(ventana, text="Nombre o etiqueta para la contraseña:", font=("Helvetica", 11), bg="#f0f0f0").pack(pady=(10,0))
-entry_nombre = tk.Entry(ventana, font=("Helvetica", 11), justify="center")
-entry_nombre.pack(pady=5)
 
 var_mayus = tk.BooleanVar(value=True)
 var_minus = tk.BooleanVar(value=True)
