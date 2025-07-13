@@ -1,0 +1,51 @@
+categoria,pregunta,opcion_a,opcion_b,opcion_c,opcion_d,respuesta
+Lugares,¿Cuál es la capital de Argentina?,Lima,Buenos Aires,Bogotá,Montevideo,B
+Lugares,¿Cuál es la capital de Alemania?,Múnich,Berlín,Hamburgo,Fráncfort,B
+Lugares,¿Cuál es la capital de Australia?,Sídney,Canberra,Melbourne,Brisbane,B
+Lugares,¿Cuál es la capital de Brasil?,Río de Janeiro,Brasilia,São Paulo,Salvador,B
+Lugares,¿Cuál es la capital de Egipto?,Alejandría,El Cairo,Giza,Luxor,B
+Lugares,¿Cuál es la capital de India?,Bombay,Nueva Delhi,Calcuta,Bangalore,B
+Lugares,¿Cuál es la capital de Italia?,Milán,Roma,Nápoles,Turín,B
+Lugares,¿Cuál es la capital de México?,Guadalajara,Ciudad de México,Monterrey,Cancún,B
+Lugares,¿Cuál es la capital del Reino Unido?,Manchester,Londres,Liverpool,Oxford,B
+Lugares,¿Cuál es la capital de China?,Shanghái,Pekín,Shenzhen,Guangzhou,B
+Libros,¿Quién escribió el libro 'Don Quijote'?,Gabriel García Márquez,Miguel de Cervantes,Mario Vargas Llosa,Federico García Lorca,B
+Libros,¿Quién escribió el libro '1984'?,Aldous Huxley,George Orwell,Ray Bradbury,Philip K. Dick,B
+Libros,¿Quién escribió el libro 'Crimen y castigo'?,Tolstoi,Fiódor Dostoyevski,Pushkin,Chejov,B
+Libros,¿Quién escribió el libro 'Cien años de soledad'?,Julio Cortázar,Gabriel García Márquez,Isabel Allende,Carlos Fuentes,B
+Libros,¿Quién escribió el libro 'Orgullo y prejuicio'?,Emily Brontë,Jane Austen,Mary Shelley,Agatha Christie,B
+Libros,¿Quién escribió el libro 'El Principito'?,Jules Verne,Antoine de Saint-Exupéry,Roald Dahl,Lewis Carroll,B
+Libros,¿Quién escribió el libro 'El alquimista'?,Jorge Amado,Paulo Coelho,Isabel Allende,Mario Benedetti,B
+Libros,¿Quién escribió el libro 'Harry Potter'?,Rick Riordan,J.K. Rowling,Stephenie Meyer,Suzanne Collins,B
+Libros,¿Quién escribió el libro 'El señor de los anillos'?,George R.R. Martin,J.R.R. Tolkien,Terry Pratchett,Brandon Sanderson,B
+Libros,¿Quién escribió el libro 'Los juegos del hambre'?,Veronica Roth,Suzanne Collins,Cassandra Clare,J.K. Rowling,B
+Personas,¿Quién fue Albert Einstein?,Inventor del avión,Físico creador de la relatividad,Filósofo griego,Matemático maya,B
+Personas,¿Quién fue Marie Curie?,Primera astronauta,Descubridora del radio,Presidenta de Francia,Bióloga de plantas,B
+Personas,¿Quién fue Leonardo da Vinci?,Escritor español,Pintor e inventor renacentista,Filósofo alemán,Médico romano,B
+Personas,¿Quién fue Nelson Mandela?,Rey africano,Presidente de Sudáfrica y activista,Líder religioso,Inventor,B
+Personas,¿Quién fue Isaac Newton?,Pintor barroco,Creador de la ley de la gravedad,Alquimista árabe,Filósofo chino,B
+Personas,¿Quién fue Malala Yousafzai?,Cantante pakistaní,Activista por la educación femenina,Abogada estadounidense,Escritora india,B
+Personas,¿Quién fue Frida Kahlo?,Actriz de cine mudo,Pintora mexicana,Revolucionaria cubana,Arquitecta brasileña,B
+Personas,¿Quién fue Martin Luther King Jr.?,"Presidente de EE.UU.",Líder por los derechos civiles,Militar africano,Pastor alemán,B
+Personas,¿Quién fue Stephen Hawking?,Astronauta británico,Físico teórico y cosmólogo,Inventor del telescopio,Ingeniero de la NASA,B
+Personas,¿Quién fue Simón Bolívar?,Presidente de México,Libertador de América,Rey del Perú,Explorador polar,B
+Fechas Importantes,¿Qué pasó en el año 1492?,Inicio del Renacimiento,Descubrimiento de América,Fundación de Roma,Fin de la Edad Media,B
+Fechas Importantes,¿Qué pasó en el año 1776?,Revolución Francesa,Independencia de EE.UU.,Inicio de la I Guerra Mundial,Descubrimiento del ADN,B
+Fechas Importantes,¿Qué pasó en el año 1945?,Inicio de la ONU,Fin de la Segunda Guerra Mundial,Caída del Muro,Guerra Fría,B
+Fechas Importantes,¿Qué pasó en el año 1969?,Primera bomba atómica,Llegada del hombre a la Luna,Muerte de Kennedy,Caída de Berlín,B
+Fechas Importantes,¿Qué pasó en el año 1989?,Fin de la Guerra de Vietnam,Caída del Muro de Berlín,Inicio de Internet,Tsunami de Japón,B
+Fechas Importantes,¿Qué pasó en el año 2001?,Crisis de 2008,Atentados del 11 de septiembre,Inicio del Euro,Pandemia del SARS,B
+Fechas Importantes,¿Qué pasó en el año 2020?,Guerra en Ucrania,Pandemia de COVID-19,Crisis climática,Tercera guerra mundial,B
+Fechas Importantes,¿Qué pasó en el año 1810?,Revolución Industrial,Inicio de la independencia de América Latina,Publicación de la Biblia,Guerra Civil Española,B
+Fechas Importantes,¿Qué pasó en el año 1914?,Creación de la OTAN,Inicio de la Primera Guerra Mundial,Colapso del Imperio Ruso,Descubrimiento del electrón,B
+Fechas Importantes,¿Qué pasó en el año 1953?,Creación de Google,Descubrimiento de la estructura del ADN,Inicio del rock and roll,Invención del láser,B
+Cultura,¿Quién fundó la cultura Egipcia?,Cleopatra,Narmer,Tutankamón,Ramsés II,B
+Cultura,¿Quién fundó la cultura Inca?,Atahualpa,Manco Cápac,Túpac Amaru,Pachacútec,B
+Cultura,¿Quién fundó la cultura Azteca?,Moctezuma,Huitzilopochtli,Tlacaélel,Cuauhtémoc,B
+Cultura,¿Quién fundó la cultura China?,Confucio,Qin Shi Huang,Lao Tsé,Sun Tzu,B
+Cultura,¿Quién fundó la cultura Griega?,Sócrates,Pericles,Alejandro Magno,Aristóteles,B
+Cultura,¿Quién fundó la cultura Romana?,César,Rómulo,Nerón,Augusto,B
+Cultura,¿Quién fundó la cultura Maya?,Pakal,K'inich Janaab',Balam,Chac,B
+Cultura,¿Quién fundó la cultura Vikinga?,Leif Erikson,Ragnar Lothbrok,Bjorn Ironside,Erik el Rojo,B
+Cultura,¿Quién fundó la cultura India?,Gandhi,Ashoka,Nehru,Tagore,B
+Cultura,¿Quién fundó la cultura Persa?,Dario I,Ciro el Grande,Jerjes,Artajerjes,B
